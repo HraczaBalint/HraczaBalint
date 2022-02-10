@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HraczaBalint
-- 👀 I’m interested in game development
+- 👀 I’m interested in web design and game development
 - 🌱 I’m currently learning Unity
 
 <!---
